@@ -1,6 +1,6 @@
 <h1 align="center">Saman Chitsazian</h1>
 <h3 align="center">Data Scientist</h3>
-<h4 align="center">CV Link</h4>(https://samanch.github.io)
+<h4 align="center">[CV Link](https://samanch.github.io)</h4>
 
 
 - 🔭 I’m currently working on [a Mastery Deep Learning Course](https://pymasterycourse.com)
