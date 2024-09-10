@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 <h1 align="center">Saman Chitsazian</h1>
-[CV Link](https://samanch.github.io)
+sam [CV Link](https://samanch.github.io)
 
-- 🔭 I’m currently working on [a Mastery Deep Learning Course at](https://pymasterycourse.com)
+- 🔭 I’m currently working on [a Mastery Deep Learning Course at pymasterycourse.com](https://pymasterycourse.com)
 
 
 ## 🌐 Socials:
