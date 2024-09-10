@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saman CHitsazian</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on [a Mastery Deep Learning Course at](https://pymasterycourse.com)
+- 🔭 I’m currently working on [a Mastery Deep Learning Course](https://pymasterycourse.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
