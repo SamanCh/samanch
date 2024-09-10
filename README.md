@@ -2,8 +2,6 @@
 
 <h2 align="center"> <a href="https://samanch.github.io" target="_blank">CV Link</a></h2>
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
 - 🔭 I’m currently working on [a Mastery Deep Learning Course at pymasterycourse.com](https://pymasterycourse.com)
 
 ## 🌐 Socials:
