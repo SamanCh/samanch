@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h1 style="color: skyblue align="center">Saman Chitsazian<br>Data Scientist</h1>
+<h1 align="center">Saman Chitsazian<br>Data Scientist</h1>
 
 <h2 align="center"> <a href="https://samanch.github.io" target="_blank">CV Link</a></h2>
 
