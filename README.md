@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saman CHitsazian</h1>
+<h1 align="center">Saman CHitsazian</h1>
 <h3 align="center">Data Scientist</h3>
 
 - 🔭 I’m currently working on [a Mastery Deep Learning Course](https://pymasterycourse.com)
