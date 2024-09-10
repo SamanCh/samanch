@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 <h1 align="center">Saman Chitsazian</h1>
-sam [CV Link](https://samanch.github.io)
-<a href="https://www.w3.org/TR/html52/" target="_blank">W3C HTML5 Specification</a>
+
+<a href="https://samanch.github.io" target="_blank">CV Link</a>
 
 - 🔭 I’m currently working on [a Mastery Deep Learning Course at pymasterycourse.com](https://pymasterycourse.com)
 
