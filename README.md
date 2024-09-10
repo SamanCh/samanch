@@ -1,5 +1,7 @@
 # 💫 About Me:
-<h2><center>Saman Chitsazian</center><h2>
+
+<h2 align="center">Saman Chitsazian</h2>
+
 🔭 I’m currently working on a Mastery Deep Learning Course at pymasterycourse.com
 
 
