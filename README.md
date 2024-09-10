@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [a Mastery Deep Learning Course at pymasterycourse.com](https://pymasterycourse.com)
 
-[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/SamanCh/Deep_Learning_Course)
+[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/SamanCh/Deep_Learning_Course&mode=light&style=horizontal)](https://github.com/SamanCh/Deep_Learning_Course)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saman-chitsazian/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samanchitsazian) 
