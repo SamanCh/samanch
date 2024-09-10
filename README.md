@@ -2,6 +2,10 @@
 
 <h1 align="center">Saman Chitsazian<br>Data Scientist</h1>
 
+<span style="display: inline;">
+  <input type="submit" value="Post"/> <input type="button" value="Cancel"/>
+</span>
+
 <h2 align="center"> <a href="https://samanch.github.io" target="_blank">CV Link</a></h2>
 
 - 🔭 I’m currently working on [a Mastery Deep Learning Course at pymasterycourse.com](https://pymasterycourse.com)
