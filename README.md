@@ -2,8 +2,6 @@
 
 <h2 align="center"> <a href="https://samanch.github.io" target="_blank">CV Link</a></h2>
 
-- 🔭 I’m currently working on an advance RAG for [autoapply.de](https://autoapply.de/de)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saman-chitsazian/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samanchitsazian) 
 
