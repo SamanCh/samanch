@@ -41,7 +41,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 - **Private & On-Prem AI Deployments** – Ensuring security, compliance, and control for sensitive enterprise data.
 - **AI-Driven Automation** – Intelligent document processing, workflow automation, and browser-based agents for operational efficiency.
 
----
+<br>
 
 - End-to-end **RAG platforms**
 - **AI agents** for automation & decision-making
@@ -49,6 +49,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 - **ML pipelines** (training → serving → monitoring)
 - Cloud-native **AI infrastructure**
 
+---
 
 ## 💻 Tech Stack
 
