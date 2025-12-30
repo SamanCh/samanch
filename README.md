@@ -1,4 +1,4 @@
-<h1 align="center">Saman Chitsazian<br>Artificial intelligence engineer</h1>
+<h1 align="center">Saman Chitsazian</h1>
 <h2 align="center">Artificial intelligence engineer</h2>
 <h3 align="center">CTO at <a href="https://www.ai-bridge.de" target="_blank">ai-bridge.de</a></h3>
 <h3 align="center"> <a href="https://samanch.github.io" target="_blank">Profile Link</a></h3>
