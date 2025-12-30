@@ -28,9 +28,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a> ·
 
 ---
 
-## 🔮 Strategic AI Focus (2025–2026)
-
-I specialize in designing and delivering **scalable, production-ready AI systems** that drive business impact. My focus spans the latest advancements in the AI industry:
+## 🔮 Core Focus (2025–2026)
 
 - **Large Language Models (LLMs)** – Deployment, optimization, and inference acceleration for enterprise-scale applications.
 - **Retrieval-Augmented Generation (RAG)** – Hybrid search, multi-vector indexing, and secure knowledge integration for actionable insights.
@@ -41,11 +39,7 @@ I specialize in designing and delivering **scalable, production-ready AI systems
 - **Private & On-Prem AI Deployments** – Ensuring security, compliance, and control for sensitive enterprise data.
 - **AI-Driven Automation** – Intelligent document processing, workflow automation, and browser-based agents for operational efficiency.
 
-This focus ensures that AI solutions are **robust, high-performing, and aligned with emerging 2026 industry trends**, bridging **research, engineering, and business strategy**.
-
 ---
-
-## 🏗️ What I Build
 
 - End-to-end **RAG platforms**
 - **AI agents** for automation & decision-making
@@ -117,14 +111,6 @@ This focus ensures that AI solutions are **robust, high-performing, and aligned 
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=samanch&theme=default&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=samanch&theme=default&hide_border=false)<br/> <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=samanch&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)--> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samanch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samanch&theme=tokyonight&hide_border=true" />
-</p>
-
----
+## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=samanch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
