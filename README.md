@@ -68,11 +68,14 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 ![Milvus](https://img.shields.io/badge/Milvus-FF00FF?style=for-the-badge)
 ![Chroma](https://img.shields.io/badge/Chroma-FF4500?style=for-the-badge)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal-AI-8B008B?style=for-the-badge)
+![CLIP](https://img.shields.io/badge/OpenAI_CLIP-FFA500?style=for-the-badge)
+![Multimodal Transformers](https://img.shields.io/badge/Multimodal_Transformers-4B0082?style=for-the-badge)
 ![LLMOps](https://img.shields.io/badge/LLMOps-2F4F4F?style=for-the-badge)
 ![Inference Optimization](https://img.shields.io/badge/Inference_Optimization-FF1493?style=for-the-badge)
 ![Context Engineering](https://img.shields.io/badge/Context_Engineering-006400?style=for-the-badge)
 ![AutoGPT / Agents](https://img.shields.io/badge/AutoGPT-483D8B?style=for-the-badge)
-
+![Ray](https://img.shields.io/badge/Ray-FD7E14?style=for-the-badge)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-008080?style=for-the-badge)
 
 ---
 
@@ -86,20 +89,40 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy)
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+![TorchVision](https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B0082?style=for-the-badge)
+![Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+![DVC](https://img.shields.io/badge/DVC-4B8BBE?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
 
 
 ---
 
+
 ### ⚙️ Backend / Systems
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge)
+
 
 ---
+
 
 ### ☁️ Cloud / Data / Infra
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
@@ -110,8 +133,17 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
 
 ---
+
 
 # 📊 GitHub Stats
 
