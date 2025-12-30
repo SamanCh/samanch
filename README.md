@@ -1,5 +1,5 @@
 <h1 align="center">Saman Chitsazian<br>Artificial intelligence engineer</h1>
-<h3 align="center">CTO at ai-bridge.de</h3>
+<h3 align="center">CTO at <a href="https://www.ai-bridge.de" target="_blank">ai-bridge.de</a></h3>
 <h3 align="center"> <a href="https://samanch.github.io" target="_blank">Profile Link</a></h3>
 
 ## 🌐 Socials:
