@@ -117,7 +117,7 @@ This focus ensures that AI solutions are **robust, high-performing, and aligned 
 
 ---
 
-## 📊 GitHub Activity (Stable)
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samanch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
