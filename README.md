@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <h1 align="center">Saman Chitsazian</h1>
 
 <h3 align="center">
@@ -148,8 +154,23 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=samanch&theme=default&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=samanch&theme=default&hide_border=false)<br/> <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=samanch&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)--> 
+<p align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=samanch&show_icons=true&theme=radical" alt="GitHub Stats" />
+<br>
+<p align="center">
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=samanch&theme=radical" alt="GitHub Streak" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github.pumbas.net/api/contributions/samanch" alt="Contribution Graph" />
+</p>
+
+
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=samanch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=samanch&theme=white" alt="GitHub Trophies" />
+</p>
