@@ -1,9 +1,4 @@
 
-
-
-
-
-
 <h1 align="center">Saman Chitsazian</h1>
 
 <h3 align="center">
