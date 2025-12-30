@@ -1,12 +1,14 @@
-<h1 align="center">🚀 Saman Chitsazian</h1>
+<h1 align="center">Saman Chitsazian</h1>
 
 <h3 align="center">
-CTO · Artificial Intelligence Engineer · LLM / RAG / AI Systems Architect
+Artificial Intelligence Engineer · LLM / RAG / AI Systems Architect
 </h3>
 
 <p align="center">
-CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a> ·
-<a href="https://samanch.github.io">Website</a>
+CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
+</p>
+<p align="center">
+<a href="https://samanch.github.io">Profile Link - CV</a>
 </p>
 
 <p align="center">
@@ -24,7 +26,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a> ·
 
 ---
 
-<p align="center">Turning **complex AI ideas into scalable systems** that ship.</p>
+<h3 align="center">Turning complex AI ideas into scalable systems that ship.</h3>
 
 ---
 
@@ -111,6 +113,10 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a> ·
 
 ---
 
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=samanch&theme=default&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=samanch&theme=default&hide_border=false)<br/> <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=samanch&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)--> 
+# 📊 GitHub Stats
 
-## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=samanch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=samanch&theme=default&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=samanch&theme=default&hide_border=false)<br/> <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=samanch&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)--> 
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=samanch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
