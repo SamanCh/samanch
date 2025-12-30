@@ -1,12 +1,12 @@
 <h1 align="center">🚀 Saman Chitsazian</h1>
 
 <h3 align="center">
-CTO · Artificial Intelligence Engineer · LLM & RAG Systems Architect
+CTO · Artificial Intelligence Engineer · LLM / RAG / AI Systems Architect
 </h3>
 
 <p align="center">
-Founder & CTO @ <a href="https://www.ai-bridge.de" target="_blank"><b>ai-bridge.de</b></a> •
-<a href="https://samanch.github.io" target="_blank">Personal Website</a>
+Founder & CTO @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a> ·
+<a href="https://samanch.github.io">Website</a>
 </p>
 
 <p align="center">
@@ -18,122 +18,135 @@ Founder & CTO @ <a href="https://www.ai-bridge.de" target="_blank"><b>ai-bridge.
 </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samanch&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
 ---
 
 ## 🧠 About Me
 
-I am a **CTO and AI Engineer** specializing in **production-grade AI systems**, with a strong focus on:
+I’m a **CTO and AI Engineer** focused on building **real-world, production-grade AI systems**.
 
-- **Large Language Models (LLMs)**
-- **Retrieval-Augmented Generation (RAG)**
-- **AI agents & workflow automation**
-- **Scalable ML infrastructure**
+My expertise spans from **low-level performance engineering** to **enterprise-scale AI platforms**, with a strong emphasis on **LLMs, RAG, inference optimization, and AI automation**.
 
-I design and lead **end-to-end AI platforms** — from data ingestion and model orchestration to deployment, monitoring, and cost optimization — for startups and enterprises.
+I turn **complex AI ideas into scalable systems** that ship.
 
 ---
 
-## 🔮 Focus Areas (2025–2026 AI Trends)
+## 🔮 Core AI Focus (2025–2026)
 
-- 🧩 **Enterprise RAG architectures** (multi-source, multi-vector, hybrid search)
-- 🤖 **Agentic AI systems** (tool use, planning, memory, orchestration)
-- ⚡ **LLM inference optimization** (vLLM, TensorRT, quantization, batching)
-- 🧠 **Context engineering & prompt systems**
-- 🔐 **Private / on-prem LLM deployments**
-- 📊 **LLMOps & observability** (evaluation, drift, cost control)
-- 🌐 **AI-driven automation** (forms, documents, workflows, browsers)
-- 🧬 **Multimodal AI** (text, documents, vision, structured data)
+- **LLM systems & inference optimization** (vLLM, batching, quantization)
+- **Enterprise RAG architectures** (PDFs, DOCX, DBs, cloud sources)
+- **Agent-based AI systems** (tool use, planning, orchestration)
+- **Private / on-prem AI deployments**
+- **LLMOps** (evaluation, monitoring, cost control)
+- **AI-driven automation** (documents, browsers, workflows)
 
 ---
 
 ## 🏗️ What I Build
 
-- **RAG platforms** for PDFs, DOCX, databases, and cloud drives  
-- **AI agents** for research, automation, and decision support  
-- **ML pipelines** (training → serving → monitoring)  
-- **High-performance inference backends**  
-- **Cloud-native AI architectures** (AWS, GCP, Azure)  
-- **Developer tooling** for AI-first products  
+- End-to-end **RAG platforms**
+- **AI agents** for automation & decision-making
+- High-performance **LLM backends**
+- **ML pipelines** (training → serving → monitoring)
+- Cloud-native **AI infrastructure**
+
+## 💻 Tech Stack
+
+
+### 🤖 LLM / RAG / AI Systems
+
+![LLM Systems](https://img.shields.io/badge/LLM-Systems-4B0082?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)
+![VectorDB](https://img.shields.io/badge/VectorDB-800080?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-556B2F?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F5900E?style=for-the-badge)
+![TensorRT](https://img.shields.io/badge/TensorRT-FF6600?style=for-the-badge)
+![GPT Models](https://img.shields.io/badge/GPT_Models-00BFFF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0C2C84?style=for-the-badge)
+![Milvus](https://img.shields.io/badge/Milvus-FF00FF?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-FF4500?style=for-the-badge)
+![Multimodal AI](https://img.shields.io/badge/Multimodal-AI-8B008B?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-2F4F4F?style=for-the-badge)
+![Inference Optimization](https://img.shields.io/badge/Inference_Optimization-FF1493?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-006400?style=for-the-badge)
+![AutoGPT / Agents](https://img.shields.io/badge/AutoGPT-483D8B?style=for-the-badge)
+
 
 ---
 
-## 💻 Core Tech Stack
 
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+### 🧠 AI / Data Science
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
 
-### LLM / RAG / Agents
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-4B0082?style=flat)
-![RAG](https://img.shields.io/badge/RAG-2E8B57?style=flat)
-![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat)
-
-### Backend & Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net)
-
-### Cloud & Data
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
 
 ---
 
-## 🚧 Featured Work
-
-### 🔹 Enterprise RAG Platform
-- Multi-format ingestion (PDF, DOCX, DBs, cloud storage)
-- Hybrid retrieval (dense + sparse + reranking)
-- Secure, private deployments
-- Cost-aware inference routing
-
-### 🔹 AI Automation for Job & Document Processing
-- CV parsing & semantic matching
-- Browser-based form automation
-- LLM-driven decision pipelines
-
-### 🔹 LLM Inference & Infrastructure Optimization
-- vLLM vs TensorRT benchmarking
-- GPU memory optimization
-- Throughput & latency tuning
+### ⚙️ Backend / Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
 ---
 
-## 📊 GitHub Activity
+### ☁️ Cloud / Data / Infra
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+
+---
+
+## 📊 GitHub Activity (Stable)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samanch&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samanch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samanch&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights & Impact
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samanch&theme=radical&no-frame=true&no-bg=true" />
-</p>
+- CTO & technical founder building **AI-first platforms**
+- Hands-on with **LLM inference performance**
+- Production experience across **cloud & on-prem**
+- Bridging **research, engineering, and business**
+
+(👉 Achievements are expressed via **impact**, not fragile widgets)
 
 ---
 
-## 🤝 Collaboration & Consulting
+## 🤝 Advisory & Collaboration
 
-I’m open to:
-
-- 🧠 AI architecture & CTO advisory
-- 🚀 LLM & RAG system design
-- 🏢 Enterprise AI adoption
-- ⚙️ Performance & cost optimization
+Open to:
+- CTO / AI architecture advisory
+- LLM & RAG system design
+- Enterprise AI adoption
+- Performance & cost optimization
 
 📫 Reach out via **LinkedIn** or **X**
 
