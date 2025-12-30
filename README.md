@@ -5,7 +5,7 @@ CTO · Artificial Intelligence Engineer · LLM / RAG / AI Systems Architect
 </h3>
 
 <p align="center">
-Founder & CTO @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a> ·
+CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a> ·
 <a href="https://samanch.github.io">Website</a>
 </p>
 
@@ -24,24 +24,24 @@ Founder & CTO @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a> ·
 
 ---
 
-## 🧠 About Me
-
-I’m a **CTO and AI Engineer** focused on building **real-world, production-grade AI systems**.
-
-My expertise spans from **low-level performance engineering** to **enterprise-scale AI platforms**, with a strong emphasis on **LLMs, RAG, inference optimization, and AI automation**.
-
-I turn **complex AI ideas into scalable systems** that ship.
+<p align="center">Turning **complex AI ideas into scalable systems** that ship.</p>
 
 ---
 
-## 🔮 Core AI Focus (2025–2026)
+## 🔮 Strategic AI Focus (2025–2026)
 
-- **LLM systems & inference optimization** (vLLM, batching, quantization)
-- **Enterprise RAG architectures** (PDFs, DOCX, DBs, cloud sources)
-- **Agent-based AI systems** (tool use, planning, orchestration)
-- **Private / on-prem AI deployments**
-- **LLMOps** (evaluation, monitoring, cost control)
-- **AI-driven automation** (documents, browsers, workflows)
+I specialize in designing and delivering **scalable, production-ready AI systems** that drive business impact. My focus spans the latest advancements in the AI industry:
+
+- **Large Language Models (LLMs)** – Deployment, optimization, and inference acceleration for enterprise-scale applications.
+- **Retrieval-Augmented Generation (RAG)** – Hybrid search, multi-vector indexing, and secure knowledge integration for actionable insights.
+- **Agentic AI & Autonomous Workflows** – AI agents capable of tool use, decision-making, and process orchestration.
+- **LLMOps & Observability** – Monitoring, evaluation, drift detection, and cost-efficient operations for high-volume deployments.
+- **Context & Prompt Engineering** – Scalable prompt strategies to maximize model accuracy and relevance.
+- **Multimodal AI** – Integration of text, vision, and structured data to build rich, intelligent experiences.
+- **Private & On-Prem AI Deployments** – Ensuring security, compliance, and control for sensitive enterprise data.
+- **AI-Driven Automation** – Intelligent document processing, workflow automation, and browser-based agents for operational efficiency.
+
+This focus ensures that AI solutions are **robust, high-performing, and aligned with emerging 2026 industry trends**, bridging **research, engineering, and business strategy**.
 
 ---
 
@@ -53,8 +53,8 @@ I turn **complex AI ideas into scalable systems** that ship.
 - **ML pipelines** (training → serving → monitoring)
 - Cloud-native **AI infrastructure**
 
-## 💻 Tech Stack
 
+## 💻 Tech Stack
 
 ### 🤖 LLM / RAG / AI Systems
 
@@ -126,28 +126,5 @@ I turn **complex AI ideas into scalable systems** that ship.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samanch&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🏆 Highlights & Impact
-
-- CTO & technical founder building **AI-first platforms**
-- Hands-on with **LLM inference performance**
-- Production experience across **cloud & on-prem**
-- Bridging **research, engineering, and business**
-
-(👉 Achievements are expressed via **impact**, not fragile widgets)
-
----
-
-## 🤝 Advisory & Collaboration
-
-Open to:
-- CTO / AI architecture advisory
-- LLM & RAG system design
-- Enterprise AI adoption
-- Performance & cost optimization
-
-📫 Reach out via **LinkedIn** or **X**
 
 ---
