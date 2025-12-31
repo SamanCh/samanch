@@ -64,7 +64,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samanch&style=for-the-badge&color=red&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=samanch&style=for-the-badge&color=red&abbreviated=false" />
 </p>
 
 
