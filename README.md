@@ -43,13 +43,13 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
     <tr>
       <td style="padding:5px;">
         <!-- Medium Button -->
-        <a href="https://medium.com/@th.guibert" target="_blank" style="text-decoration:none;">
+        <a href="https://medium.com/@samanch70" target="_blank" style="text-decoration:none;">
           <img src="https://img.shields.io/badge/Medium-Read-orange?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="width:180px;" />
         </a>
       </td>
       <td style="padding:5px;">
         <!-- X (Twitter) Button -->
-        <a href="https://x.com/samanchitsazian" target="_blank" style="text-decoration:none;">
+        <a href="https://x.com/samyboy47" target="_blank" style="text-decoration:none;">
           <img src="https://img.shields.io/badge/X%20(Twitter)-Visit-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" style="width:180px;" />
         </a>
       </td>
