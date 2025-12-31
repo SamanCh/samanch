@@ -9,28 +9,41 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 </p>
 
 
-<p align="center">
-  <!-- Portfolio Website Button -->
-  <a href="https://samanch.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Website-Visit-green?style=for-the-badge&logo=internet" alt="Portfolio Website" style="margin-right:10px;" />
-  </a>
 
-  <!-- CV Button -->
-  <a href="https://docs.google.com/document/d/1q0kXUwJDrijM0D-zncI54fKJI3WDwvY5/export?format=pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=google-docs" alt="CV" style="margin-right:10px;" />
-  </a>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 400px;">
+    <tr>
+      <td style="padding:5px;">
+        <!-- Portfolio Website Button -->
+        <a href="https://samanch.github.io" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio%20Website-Visit-green?style=for-the-badge&logo=internet" alt="Portfolio Website" style="width:100%;" />
+        </a>
+      </td>
+      <td style="padding:5px;">
+        <!-- CV Button -->
+        <a href="https://docs.google.com/document/d/1q0kXUwJDrijM0D-zncI54fKJI3WDwvY5/export?format=pdf" target="_blank">
+          <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=google-docs" alt="CV" style="width:100%;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:5px;">
+        <!-- Course Website Button -->
+        <a href="https://www.pymastery.ir/" target="_blank">
+          <img src="https://img.shields.io/badge/PyMastery-Course-red?style=for-the-badge&logo=python&logoColor=white" alt="PyMastery Course" style="width:100%;" />
+        </a>
+      </td>
+      <td style="padding:5px;">
+        <!-- LinkedIn Button -->
+        <a href="https://www.linkedin.com/in/saman-chitsazian/" target="_blank" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/LinkedIn-Visit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width:100%;" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <!-- Course Website Button -->
-  <a href="https://www.pymastery.ir/" target="_blank">
-    <img src="https://img.shields.io/badge/PyMastery-Course-red?style=for-the-badge&logo=python&logoColor=white" alt="PyMastery Course" style="margin-right:10px;" />
-  </a>
 
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/saman-chitsazian/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Visit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right:10px;" />
-  </a>
-
-</p>
 
 
 
