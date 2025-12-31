@@ -1,4 +1,3 @@
-
 <h1 align="center">Saman Chitsazian</h1>
 
 <h3 align="center">
@@ -22,7 +21,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samanch&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img height="40" src="https://komarev.com/ghpvc/?username=samanch&label=Profile%20Views&color=red&style=for-the-badge" />
 </p>
 
 ---
