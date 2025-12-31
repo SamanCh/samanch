@@ -1,3 +1,9 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samanch&theme=cobalt2)
+
+
+
+
+
 <h1 align="center">Saman Chitsazian</h1>
 
 <h3 align="center">
@@ -188,6 +194,26 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+
+---
+
+# Latest Medium Articles
+
+<!-- 1st recent article -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/0" alt="Medium Article 1" />
+</a>
+
+<!-- 2nd recent article -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/1">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/1" alt="Medium Article 2" />
+</a>
+
+<!-- 3rd recent article -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/2" alt="Medium Article 3" />
+</a>
 
 
 ---
