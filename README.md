@@ -42,13 +42,6 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 </p>
 
 
-  <!-- Email Button -->
-  <a href="mailto:saman.ch@ai-bridge.de" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-
 
 
 
