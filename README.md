@@ -30,15 +30,6 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
     <img src="https://img.shields.io/badge/LinkedIn-Visit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right:10px;" />
   </a>
 
-  <!-- X Button -->
-  <a href="https://x.com/samanchitsazian" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/X-Visit-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-right:10px;" />
-  </a>
-
-  <!-- Email Button -->
-  <a href="mailto:saman.ch@ai-bridge.de" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 
