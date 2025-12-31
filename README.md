@@ -1,8 +1,3 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samanch&theme=cobalt2)
-
-
-
-
 
 <h1 align="center">Saman Chitsazian</h1>
 
@@ -221,10 +216,17 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=samanch&show_icons=true&theme=radical" alt="GitHub Stats" />
+<div align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samanch&theme=cobalt2" 
+    alt="GitHub Profile Summary" 
+    style="width:100%; max-width:600px; height:auto;"
+  />
+</div>
+
+
 <br>
+
 <p align="center">
   <!-- Contribution Streak -->
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=samanch&theme=radical" alt="GitHub Streak" />
