@@ -12,24 +12,43 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 <p align="center">
   <!-- Portfolio Website Button -->
   <a href="https://samanch.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Website-Visit-green?style=for-the-badge&logo=internet" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio%20Website-Visit-green?style=for-the-badge&logo=internet" alt="Portfolio Website" style="margin-right:10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <!-- CV Button -->
   <a href="https://docs.google.com/document/d/1q0kXUwJDrijM0D-zncI54fKJI3WDwvY5/export?format=pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=google-docs" alt="CV" />
+    <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=google-docs" alt="CV" style="margin-right:10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
+  <!-- Course Website Button -->
+  <a href="https://www.pymastery.ir/" target="_blank">
+    <img src="https://img.shields.io/badge/PyMastery-Course-red?style=for-the-badge&logo=python&logoColor=white" alt="PyMastery Course" style="margin-right:10px;" />
+  </a>
+
   <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/saman-chitsazian/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Visit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Visit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right:10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <!-- X Button -->
   <a href="https://x.com/samanchitsazian" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/X-Visit-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-Visit-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-right:10px;" />
+  </a>
+
+  <!-- Email Button -->
+  <a href="mailto:saman.ch@ai-bridge.de" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+
+  <!-- Email Button -->
+  <a href="mailto:saman.ch@ai-bridge.de" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
 
 
 
