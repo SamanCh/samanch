@@ -193,6 +193,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 
 ---
 
+
 # Latest Medium Articles
 
 <!-- 1st recent article -->
