@@ -14,22 +14,24 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
   <a href="https://samanch.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Website-Visit-green?style=for-the-badge&logo=internet" alt="Portfolio Website" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <!-- CV Button -->
   <a href="https://docs.google.com/document/d/1q0kXUwJDrijM0D-zncI54fKJI3WDwvY5/export?format=pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=google-docs" alt="CV" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/saman-chitsazian/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Visit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- X Button -->
+  <a href="https://x.com/samanchitsazian" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/X-Visit-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/saman-chitsazian/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/samanchitsazian">
-  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
-</a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samanch&label=Profile%20Views&color=red&style=for-the-badge" />
