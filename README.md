@@ -98,7 +98,9 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
   <tbody>
     <tr>
       <td rowspan="2" valign="top" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 15px;">
-        <p><strong>MyJobAI.de</strong><br>
+        <a href="https://www.myjobai.de" target="_blank" style="text-decoration: none; color: inherit;">
+        <strong>MyJobAI.de</strong>
+        </a><br>
         <small>Scalable AI Career Automation & Optimization</small></p>
         <ul>
         <li><strong>Autonomous Job Agents</strong> for automation & decision-making</li>
@@ -110,7 +112,9 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
         <br>
         <br>
         <br>
-        <p><strong>Local-GPT.de</strong><br>
+        <a href="https://www.local-gpt.de" target="_blank" style="text-decoration: none; color: inherit;">
+        <strong>local-gpt.de</strong>
+        </a><br>
         <small>Privacy-First, On-Premise Document Intelligence</small></p>
         <ul>
           <li><strong>End-to-end RAG platforms</strong> (Privacy-First)</li>
@@ -128,8 +132,6 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
             style="max-width: 100%; height: auto;"
             alt="MyJobAI Website Preview"
           />
-          <br>
-          <em style="font-size: 12px; color: #555;">(Click image to visit My Job AI)</em>
         </a>
       </td>
     </tr>
@@ -142,8 +144,6 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
             style="max-width: 100%; height: auto;"
             alt="Local-GPT Website Preview"
           />
-          <br>
-          <em style="font-size: 12px; color: #555;">(Click image to visit Local GPT)</em>
         </a>
       </td>
     </tr>
