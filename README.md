@@ -268,16 +268,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 </p>
 <br>
 <p align="center">
-  <p align="center">Last Month</p>
-  <img 
-  src="https://github.pumbas.net/api/contributions/samanch" 
-  alt="Contribution Graph" 
-  width="100%" 
-  style="width: 100%; max-height: 200px; object-fit: cover;"
-  />
-  
-  <p align="center">Last Quarter</p>
-  <img src="https://github.pumbas.net/api/contributions/samanch?colour=FF0000&dotColour=22AEDA&days=90&borderRadius=2" alt="Last Season" />
+  <img src="https://github.pumbas.net/api/contributions/samanch?colour=FF0000&dotColour=22AEDA&days=30&borderRadius=2" alt="Last Season" style="width: 100%; max-height: 200px; object-fit: cover;/>
 </p>
 
 
