@@ -1,4 +1,15 @@
-
+<div align="center">
+  <a href="https://www.myjobai.de" target="_blank">
+    <img
+      src="https://api.microlink.io/?url=https://www.myjobai.de&screenshot=true&meta=false&embed=screenshot.url"
+      width="400"
+      style="max-width: 100%; height: auto;"
+      alt="MyJobAI Website Preview"
+    />
+    <br>
+    <em style="font-size: 12px; color: #555;">(Click image to visit site)</em>
+  </a>
+</div>
 
 <h1 align="center">Saman Chitsazian</h1>
 
@@ -109,6 +120,8 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
         <li><strong>GDPR Compliance Layer</strong> for secure infrastructure</li>
         <li><strong>Contextual Skill Matching</strong> NLP pipelines</li>
       </ul>
+        <br>
+        <br>
         <p><strong>Local-GPT.de</strong><br>
         <small>Privacy-First, On-Premise Document Intelligence</small></p>
         <ul>
@@ -127,6 +140,8 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
             style="max-width: 100%; height: auto;"
             alt="MyJobAI Website Preview"
           />
+          <br>
+          <em style="font-size: 12px; color: #555;">(Click image to visit My Job AI)</em>
         </a>
       </td>
     </tr>
@@ -139,6 +154,8 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
             style="max-width: 100%; height: auto;"
             alt="Local-GPT Website Preview"
           />
+          <br>
+          <em style="font-size: 12px; color: #555;">(Click image to visit Local GPT)</em>
         </a>
       </td>
     </tr>
