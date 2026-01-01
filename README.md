@@ -91,7 +91,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 <br>
 
 
-
+<h4 align="center">Our Platforms</h4>
 
 <table align="center" style="width: 100%; min-width: 100%; table-layout: fixed; border: 4px double #555; border-collapse: collapse; display: table;">
   <thead></thead>
