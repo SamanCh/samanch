@@ -94,41 +94,56 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 
 
 
-<table align="center">
-  <tr>
-    <!-- LEFT TABLE -->
-    <td valign="top" width="50%">
-      <ul>
-        <li><strong>End-to-end RAG platforms</strong></li>
-        <li>AI agents for automation & decision-making</li>
-        <li>High-performance LLM backends</li>
-        <li>ML pipelines (training → serving → monitoring)</li>
-        <li>Cloud-native AI infrastructure</li>
+
+<table align="center" style="width: 100%; min-width: 100%; table-layout: fixed; border: 4px double #555; border-collapse: collapse; display: table;">
+  <thead></thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" valign="top" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 15px;">
+        <p><strong>MyJobAI.de</strong><br>
+        <small>Scalable AI Career Automation & Optimization</small></p>
+        <ul>
+        <li><strong>Autonomous Job Agents</strong> for automation & decision-making</li>
+        <li><strong>ATS Personalization</strong> ML pipelines (training → serving)</li>
+        <li><strong>Secure API Orchestration</strong> for service integration</li>
+        <li><strong>GDPR Compliance Layer</strong> for secure infrastructure</li>
+        <li><strong>Contextual Skill Matching</strong> NLP pipelines</li>
       </ul>
-    </td>
-
-    <td valign="top" width="50%" align="center">
-      <a href="https://www.myjobai.de" target="_blank">
-        <img
-          src="https://api.microlink.io/?url=https://www.myjobai.de&screenshot=true&meta=false&embed=screenshot.url"
-          width="150"
-          alt="MyJobAI Website Preview"
-        />
-      </a>
-      <br><br>
-      <a href="https://www.myjobai.de" target="_blank">
-        <img
-          src="https://api.microlink.io/?url=https://www.myjobai.de&screenshot=true&meta=false&embed=screenshot.url"
-          width="150"
-          alt="MyJobAI Website Preview"
-        />
-      </a>
-    </td>
-  </tr>
+        <p><strong>Local-GPT.de</strong><br>
+        <small>Privacy-First, On-Premise Document Intelligence</small></p>
+        <ul>
+          <li><strong>End-to-end RAG platforms</strong> (Privacy-First)</li>
+          <li><strong>Quantized LLM backends</strong> (High-performance)</li>
+          <li><strong>Hybrid Search Engines</strong> for decision-making</li>
+          <li><strong>Smart Query Routing</strong> ML pipelines (monitoring)</li>
+          <li><strong>Cloud-native AI infrastructure</strong> (Edge-ready)</li>
+        </ul>
+      </td>
+      <td align="center" valign="middle" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 20px;">
+        <a href="https://www.myjobai.de" target="_blank">
+          <img
+            src="https://api.microlink.io/?url=https://www.myjobai.de&screenshot=true&meta=false&embed=screenshot.url"
+            width="400"
+            style="max-width: 100%; height: auto;"
+            alt="MyJobAI Website Preview"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 20px;">
+        <a href="https://www.local-gpt.de" target="_blank">
+          <img
+            src="https://api.microlink.io/?url=https://www.local-gpt.de&screenshot=true&meta=false&embed=screenshot.url"
+            width="400"
+            style="max-width: 100%; height: auto;"
+            alt="Local-GPT Website Preview"
+          />
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
-
-
-
 
 
 ---
