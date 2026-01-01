@@ -191,26 +191,6 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
 
----
-
-
-# Latest Medium Articles
-
-<!-- 1st recent article -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/0" alt="Medium Article 1" />
-</a>
-
-<!-- 2nd recent article -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/1">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/1" alt="Medium Article 2" />
-</a>
-
-<!-- 3rd recent article -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/2">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@samanch70/2" alt="Medium Article 3" />
-</a>
-
 
 ---
 
