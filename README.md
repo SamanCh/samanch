@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Saman Chitsazian</h1>
 
 <h3 align="center">
@@ -91,11 +92,44 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 
 <br>
 
-- End-to-end **RAG platforms**
-- **AI agents** for automation & decision-making
-- High-performance **LLM backends**
-- **ML pipelines** (training → serving → monitoring)
-- Cloud-native **AI infrastructure**
+
+
+<table align="center">
+  <tr>
+    <!-- LEFT TABLE -->
+    <td valign="top" width="50%">
+      <ul>
+        <li><strong>End-to-end RAG platforms</strong></li>
+        <li>AI agents for automation & decision-making</li>
+        <li>High-performance LLM backends</li>
+        <li>ML pipelines (training → serving → monitoring)</li>
+        <li>Cloud-native AI infrastructure</li>
+      </ul>
+    </td>
+
+    <td valign="top" width="50%" align="center">
+      <a href="https://www.myjobai.de" target="_blank">
+        <img
+          src="https://api.microlink.io/?url=https://www.myjobai.de&screenshot=true&meta=false&embed=screenshot.url"
+          width="150"
+          alt="MyJobAI Website Preview"
+        />
+      </a>
+      <br><br>
+      <a href="https://www.myjobai.de" target="_blank">
+        <img
+          src="https://api.microlink.io/?url=https://www.myjobai.de&screenshot=true&meta=false&embed=screenshot.url"
+          width="150"
+          alt="MyJobAI Website Preview"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ---
 
