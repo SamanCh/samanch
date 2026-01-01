@@ -1,7 +1,7 @@
 <h1 align="center">Saman Chitsazian</h1>
 
 <h3 align="center">
-Artificial Intelligence Engineer · LLM / RAG / AI Systems Architect
+Artificial Intelligence Engineer · System Architect
 </h3>
 
 <p align="center">
