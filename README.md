@@ -97,25 +97,25 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
   <thead></thead>
   <tbody>
     <tr>
-      <td rowspan="2" valign="top" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 15px;">
+      <td rowspan="3" valign="top" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 15px;">
         <a href="https://www.myjobai.de" target="_blank" style="text-decoration: none; color: inherit;">
-        <strong>MyJobAI.de</strong>
+          <strong>MyJobAI.de</strong>
         </a><br>
-        <small>Scalable AI Career Automation & Optimization</small></p>
+        <small>Scalable AI Career Automation & Optimization</small>
         <ul>
-        <li><strong>Autonomous Job Agents</strong> for automation & decision-making</li>
-        <li><strong>ATS Personalization</strong> ML pipelines (training → serving)</li>
-        <li><strong>Secure API Orchestration</strong> for service integration</li>
-        <li><strong>GDPR Compliance Layer</strong> for secure infrastructure</li>
-        <li><strong>Contextual Skill Matching</strong> NLP pipelines</li>
-      </ul>
+          <li><strong>Autonomous Job Agents</strong> for automation & decision-making</li>
+          <li><strong>ATS Personalization</strong> ML pipelines (training → serving)</li>
+          <li><strong>Secure API Orchestration</strong> for service integration</li>
+          <li><strong>GDPR Compliance Layer</strong> for secure infrastructure</li>
+          <li><strong>Contextual Skill Matching</strong> NLP pipelines</li>
+        </ul>
         <br>
         <br>
         <br>
         <a href="https://www.local-gpt.de" target="_blank" style="text-decoration: none; color: inherit;">
-        <strong>local-gpt.de</strong>
+          <strong>local-gpt.de</strong>
         </a><br>
-        <small>Privacy-First, On-Premise Document Intelligence</small></p>
+        <small>Privacy-First, On-Premise Document Intelligence</small>
         <ul>
           <li><strong>End-to-end RAG platforms</strong> (Privacy-First)</li>
           <li><strong>Quantized LLM backends</strong> (High-performance)</li>
@@ -123,27 +123,38 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
           <li><strong>Smart Query Routing</strong> ML pipelines (monitoring)</li>
           <li><strong>Cloud-native AI infrastructure</strong> (Edge-ready)</li>
         </ul>
+        <br>
+        <br>
+        <br>
+        <a href="https://www.learningpilot.org/" target="_blank" style="text-decoration: none; color: inherit;">
+          <strong>LearningPilot.org</strong>
+        </a><br>
+        <small>AI tailored Interactive Learning Platform</small>
+        <ul>
+          <li><strong>AI powered course generataion: </strong> Fast & Simple</li>
+          <li><strong>Content Quality</strong>, academic content level</li>
+          <li><strong>Course creation</strong> based on the user input files</li>
+          <li><strong>Highly customizable</strong> including images voices and video all with AI</li>
+          <li><strong>Course UI and progress tracking</strong> for Chapters and Quizzes</li>
+        </ul>
       </td>
       <td align="center" valign="middle" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 20px;">
         <a href="https://www.myjobai.de" target="_blank">
-          <img
-            src="https://api.microlink.io/?url=https://www.myjobai.de&screenshot=true&meta=false&embed=screenshot.url"
-            width="400"
-            style="max-width: 100%; height: auto;"
-            alt="MyJobAI Website Preview"
-          />
+          <img src="https://api.microlink.io/?url=https://www.myjobai.de&screenshot=true&meta=false&embed=screenshot.url" width="400" style="max-width: 100%; height: auto;" alt="MyJobAI Website Preview" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 20px;">
         <a href="https://www.local-gpt.de" target="_blank">
-          <img
-            src="https://api.microlink.io/?url=https://www.local-gpt.de&screenshot=true&meta=false&embed=screenshot.url"
-            width="400"
-            style="max-width: 100%; height: auto;"
-            alt="Local-GPT Website Preview"
-          />
+          <img src="https://api.microlink.io/?url=https://www.local-gpt.de&screenshot=true&meta=false&embed=screenshot.url" width="400" style="max-width: 100%; height: auto;" alt="Local-GPT Website Preview" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 20px;">
+        <a href="https://www.learningpilot.org/" target="_blank">
+          <img src="https://api.microlink.io/?url=https://www.learningpilot.org/&screenshot=true&meta=false&embed=screenshot.url" width="400" style="max-width: 100%; height: auto;" alt="LearningPilot Website Preview" />
         </a>
       </td>
     </tr>
