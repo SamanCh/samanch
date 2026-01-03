@@ -140,21 +140,21 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
       </td>
       <td align="center" valign="middle" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 20px;">
         <a href="https://www.myjobai.de" target="_blank">
-          <img src="https://api.microlink.io/?url=https://www.myjobai.de&screenshot=true&meta=false&embed=screenshot.url" width="450" style="max-width: 100%; height: auto;" alt="MyJobAI Website Preview" />
+          <img src="https://api.microlink.io/?url=https://www.myjobai.de&screenshot=true&meta=false&embed=screenshot.url" width="400" style="max-width: 100%; height: auto;" alt="MyJobAI Website Preview" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 20px;">
         <a href="https://www.local-gpt.de" target="_blank">
-          <img src="https://api.microlink.io/?url=https://www.local-gpt.de&screenshot=true&meta=false&embed=screenshot.url" width="450" style="max-width: 100%; height: auto;" alt="Local-GPT Website Preview" />
+          <img src="https://api.microlink.io/?url=https://www.local-gpt.de&screenshot=true&meta=false&embed=screenshot.url" width="400" style="max-width: 100%; height: auto;" alt="Local-GPT Website Preview" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 20px;">
         <a href="https://www.learningpilot.org/" target="_blank">
-          <img src="https://api.microlink.io/?url=https://www.learningpilot.org/&screenshot=true&meta=false&embed=screenshot.url" width="450" style="max-width: 100%; height: auto;" alt="LearningPilot Website Preview" />
+          <img src="https://api.microlink.io/?url=https://www.learningpilot.org/&screenshot=true&meta=false&embed=screenshot.url" width="400" style="max-width: 100%; height: auto;" alt="LearningPilot Website Preview" />
         </a>
       </td>
     </tr>
