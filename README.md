@@ -277,7 +277,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
 
 <p align="center">
   <!-- Contribution Streak -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=samanch&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=samanch" alt="GitHub Streak" />
 </p>
 <br>
 <p align="center">
