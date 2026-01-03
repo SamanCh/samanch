@@ -112,6 +112,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
         <br>
         <br>
         <br>
+        <br>
         <a href="https://www.local-gpt.de" target="_blank" style="text-decoration: none; color: inherit;">
           <strong>local-gpt.de</strong>
         </a><br>
@@ -123,6 +124,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
           <li><strong>Smart Query Routing</strong> ML pipelines (monitoring)</li>
           <li><strong>Cloud-native AI infrastructure</strong> (Edge-ready)</li>
         </ul>
+        <br>
         <br>
         <br>
         <br>
