@@ -135,7 +135,7 @@ CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
           <li><strong>Content Quality</strong>, academic content level</li>
           <li><strong>Course creation</strong> based on the user input files</li>
           <li><strong>Highly customizable</strong> including images voices and video all with AI</li>
-          <li><strong>Course UI and progress tracking</strong> for Chapters and Quizzes</li>
+          <li><strong>Course Progress tracking</strong> for Chapters and Quizzes</li>
         </ul>
       </td>
       <td align="center" valign="middle" style="width: 50%; min-width: 50%; border: 4px double #555; padding: 20px;">
