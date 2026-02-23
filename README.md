@@ -1,12 +1,9 @@
-<h1 align="center">Saman Chitsazian</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Saman%20Chitsazian&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20System%20Architect%20%C2%B7%20CTO&descSize=18&descAlignY=55&descAlign=50"/>
 
-<h3 align="center">
-Artificial Intelligence Engineer · System Architect
-</h3>
-
-<p align="center">
-CTO & Tech lead @ <a href="https://www.ai-bridge.de"><b>ai-bridge.de</b></a>
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Turning+complex+AI+ideas+into+scalable+systems+that+ship.)](https://git.io/typing-svg)
+</div>
 
 
 
