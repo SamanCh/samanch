@@ -68,24 +68,43 @@
 
 
 
----
 
-<h3 align="center">Turning complex AI ideas into scalable systems that ship.</h3>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔮 Core Focus (2025–2026)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Core Focus (2025–2026)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```js
+// 🧠 intelligence_layer.js
+```
 
 - **Large Language Models (LLMs)** – Deployment, optimization, and inference acceleration for enterprise-scale applications.
 - **Retrieval-Augmented Generation (RAG)** – Hybrid search, multi-vector indexing, and secure knowledge integration for actionable insights.
 - **Agentic AI & Autonomous Workflows** – AI agents capable of tool use, decision-making, and process orchestration.
+- **Multimodal AI** – Integration of text, vision, and structured data to build rich, intelligent experiences.
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+# ⚙️ infrastructure_layer.yaml
+```
+
 - **LLMOps & Observability** – Monitoring, evaluation, drift detection, and cost-efficient operations for high-volume deployments.
 - **Context & Prompt Engineering** – Scalable prompt strategies to maximize model accuracy and relevance.
-- **Multimodal AI** – Integration of text, vision, and structured data to build rich, intelligent experiences.
 - **Private & On-Prem AI Deployments** – Ensuring security, compliance, and control for sensitive enterprise data.
 - **AI-Driven Automation** – Intelligent document processing, workflow automation, and browser-based agents for operational efficiency.
 
-<br>
+</td>
+</tr>
+</table>
+
+
+
 
 
 <h4 align="center">Our Platforms</h4>
@@ -161,7 +180,8 @@
 </table>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## 💻 Tech Stack
 
@@ -190,7 +210,7 @@
 ![Ray](https://img.shields.io/badge/Ray-FD7E14?style=for-the-badge)
 ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-008080?style=for-the-badge)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 ### 🧠 AI / Data Science
@@ -214,7 +234,7 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 ### ⚙️ Backend / Systems
@@ -234,7 +254,7 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge)
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 ### ☁️ Cloud / Data / Infra
@@ -255,8 +275,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 # 📊 GitHub Stats
