@@ -82,7 +82,7 @@
 // 🧠 intelligence_layer.js
 ```
 
-- **Large Language Models (LLMs)** – Deployment, optimization, and inference acceleration for enterprise-scale applications.
+- **AI & Agents in transforming businesses** – Deployment, optimization, and inference acceleration for enterprise-scale applications.
 - **Retrieval-Augmented Generation (RAG)** – Hybrid search, multi-vector indexing, and secure knowledge integration for actionable insights.
 - **Agentic AI & Autonomous Workflows** – AI agents capable of tool use, decision-making, and process orchestration.
 - **Multimodal AI** – Integration of text, vision, and structured data to build rich, intelligent experiences.
