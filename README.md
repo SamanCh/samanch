@@ -60,7 +60,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samanch&style=for-the-badge&color=blue&" />
+  <img src="https://komarev.com/ghpvc/?username=samanch&style=for-the-badge&color=yellow&" />
 </p>
 
 
