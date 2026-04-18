@@ -82,7 +82,7 @@
 // 🧠 intelligence_layer.js
 ```
 
-- **AI & Agents in transforming businesses** – Adopt a solution-centric approach and focus on driving business value with AI tools and applications that align to foundational AI principles. Select business-driven use cases for agentic AI and include human oversight when developing agentic AI applications.
+- **AI & Agents in transforming businesses** – solution-centric approach on driving business value with AI tools. business-driven use cases for agentic AI.
 - **Retrieval-Augmented Generation (RAG)** – Hybrid search, multi-vector indexing, and secure knowledge integration for actionable insights.
 - **Agentic AI & Autonomous Workflows** – AI agents capable of tool use, decision-making, and process orchestration.
 - **Multimodal AI** – Integration of text, vision, and structured data to build rich, intelligent experiences.
